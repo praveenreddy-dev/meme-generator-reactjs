@@ -20,7 +20,7 @@ This project is based on the concepts taught in the Scrimba course [Scrimba Lear
 2. Navigate to the project directory using the terminal.
 3. Run `npm install` to install the project dependencies.
 4. Start the development server with `npm start`.
-5. Open your web browser and navigate to `http://localhost:3000`.
+5. Navigate through the link
 
 ## How to Use
 
